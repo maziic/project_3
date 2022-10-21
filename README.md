@@ -2,14 +2,14 @@
 
 You can find attached screenshots of Circle ci dashboard , AWS services [eb,rds,s3]
 
-!['CircleCi'](docs/ci dash.png)
+!['CircleCi'](docs/cidash.png)
 
 the circle ci I tested with a sample configuration file with in the repo https://github.com/maziic/Project_2.git
 of the old project if you would like to check the work on it but I have the of the missing file that I state below
 
 !['AWS_EB'](docs/awseb.png)
-!['AWS_RDS'](docs/aws rds.png)
-!['AWS_S3'](docs/aws S3.png)
+!['AWS_RDS'](docs/awsrds.png)
+!['AWS_S3'](docs/awsS3.png)
 
 I have almost completed the tasks but I ran into a problem with the code and its compaitbility with windows which I have been trying
 to solve but reaching dead end
