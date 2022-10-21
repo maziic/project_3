@@ -49,9 +49,9 @@
     "@types/node" "*"
 
 "@types/continuation-local-storage@*":
-  "integrity" "sha1-oz4N+dzptCTRyY/E/evYV43O7H4="
-  "resolved" "https://registry.npmjs.org/@types/continuation-local-storage/-/continuation-local-storage-3.2.1.tgz"
-  "version" "3.2.1"
+  "integrity" "sha512-OT32vCVMymU1JMPKDeY0lX3cduAr0Pm/VwIbxygMeDS4lRcv57qYXn9bMwBRcRnEpXKBb/r4xYaZCARTZllP0A=="
+  "resolved" "https://registry.npmjs.org/@types/continuation-local-storage/-/continuation-local-storage-3.2.4.tgz"
+  "version" "3.2.4"
   dependencies:
     "@types/node" "*"
 
@@ -109,9 +109,9 @@
     "@types/node" "*"
 
 "@types/lodash@*":
-  "integrity" "sha512-pQvPkc4Nltyx7G1Ww45OjVqUsJP4UsZm+GWJpigXgkikZqJgRm4c48g027o6tdgubWHwFRF15iFd+Y4Pmqv6+Q=="
-  "resolved" "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.123.tgz"
-  "version" "4.14.123"
+  "integrity" "sha512-eHcVlLXP0c2FlMPm56ITode2AgLMSa6aJ05JTTbYbI+7EMkCEE5qk2E41d5g2lCVTqRe0GnnRFurmlCsDODrPw=="
+  "resolved" "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.186.tgz"
+  "version" "4.14.186"
 
 "@types/mime@*":
   "integrity" "sha512-FwI9gX75FgVBJ7ywgnq/P7tw+/o1GUbtP0KzbtusLigAOgIgNISRK0ZPl4qertvXSIE8YbsVJueQ90cDt9YYyw=="
@@ -133,10 +133,10 @@
   "resolved" "https://registry.npmjs.org/@types/range-parser/-/range-parser-1.2.3.tgz"
   "version" "1.2.3"
 
-"@types/sequelize@^4.27.44":
-  "integrity" "sha512-GrM7/rxosbskkToSORCona1D1YMJcJ9O9gCSlobr0hdFn6v0QyvMD/2YRVO/lRXrqHVRFwtZkf0mO0BBbyspEw=="
-  "resolved" "https://registry.npmjs.org/@types/sequelize/-/sequelize-4.27.44.tgz"
-  "version" "4.27.44"
+"@types/sequelize@^4.28.14":
+  "integrity" "sha512-O8lTJ8YPVVaoY9xjduchDlo0MOS3w262pro2H1QMuFIo/kc/p1elP/UxLOTP2wcVO2cFd6Gvghg9ZSAiJi0GLA=="
+  "resolved" "https://registry.npmjs.org/@types/sequelize/-/sequelize-4.28.14.tgz"
+  "version" "4.28.14"
   dependencies:
     "@types/bluebird" "*"
     "@types/continuation-local-storage" "*"
@@ -169,12 +169,7 @@
     "@types/cookiejar" "*"
     "@types/node" "*"
 
-"@types/validator@*", "@types/validator@^10.9.0":
-  "integrity" "sha512-mf0VpXk+NoTmkUmuJCsdwBYxjYZW41amCSzd4t/fABMKl+qGMViwFP0pR7ukFdZRXWI1LIkca3VIbXVBmWZ4kQ=="
-  "resolved" "https://registry.npmjs.org/@types/validator/-/validator-10.9.0.tgz"
-  "version" "10.9.0"
-
-"@types/validator@^13.7.1":
+"@types/validator@*", "@types/validator@^13.7.1", "@types/validator@^13.7.8":
   "integrity" "sha512-HKayOBe2ThTcQykiycCQYf70Fvo0WaJEJdxxNjvX3D/mnC0IUAhMe6wsIb1wwthmjiqBAR3qGkEzHYx74MS2yw=="
   "resolved" "https://registry.npmjs.org/@types/validator/-/validator-13.7.8.tgz"
   "version" "13.7.8"
