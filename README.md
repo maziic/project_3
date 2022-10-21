@@ -7,7 +7,7 @@ You can find attached screenshots of Circle ci dashboard , AWS services [eb,rds,
 the circle ci I tested with a sample configuration file with in the repo https://github.com/maziic/Project_2.git
 of the old project if you would like to check the work on it but I have the of the missing file that I state below
 
-!['AWS_EB'](docs/aws eb.png)
+!['AWS_EB'](docs\aws eb.png)
 !['AWS_RDS'](docs/aws rds.png)
 !['AWS_S3'](docs/aws S3.png)
 
